@@ -2,4 +2,4 @@
 *.log
 
 #Ignora el fichero .env
-.env
+*.env
